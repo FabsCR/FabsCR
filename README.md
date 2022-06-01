@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi! I'm Fabián Fernández and welcome to my GitHub profile!! 👋
 
+- 🌱 I’m currently learning HTML5, CSS & JavaScript
+- 📫 How to reach me: fabian.jose.fdez.fdez@gmail.com
+- 🎓 I'm currently studying a bachelor's degree in computer science at the Tecnológico of Costa Rica.
 <!--
 **FabsCR/FabsCR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

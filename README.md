@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning 🡢 HTML5, CSS3 & JavaScript
 - 📫 How to reach me 🡢 fabian.jose.fdez.fdez@gmail.com
 - 🔎 You can find more about me here 🡢 https://www.linkedin.com/in/fabian-fdez/
-- 
+
 <!--
 **FabsCR/FabsCR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,6 +1,6 @@
 ### Hi! I'm Fabián Fernández and welcome to my GitHub profile! 👋
 
-- 🎓 I'm currently studying a bachelor's degree in computer science at Tecnológico de Costa Rica
+- 🎓 I'm currently studying a bachelor's degree in computer software engineering at Tecnológico de Costa Rica
 - 🌱 I’m currently learning 🡢 HTML5, CSS3 & JavaScript
 - 📫 How to reach me 🡢 fabian.jose.fdez.fdez@gmail.com
 - 🔎 You can find more about me here 🡢 https://www.linkedin.com/in/fabian-fdez/

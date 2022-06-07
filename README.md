@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **HTML5, CSS3 & JavaScript**
 
-- 📫 How to reach me **fabian.jose.fdez.fdez@gmail.com**
-
 - 🎓 I'm currently studying a bachelor's degree in computer software engineering at Tecnológico de Costa Rica
 
 - ✨ My next goal is to learn Java
 
 - 🔎 You can find more about me here **https://www.linkedin.com/in/fabian-fdez/**
+
+- 📫 How to reach me **fabian.jose.fdez.fdez@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

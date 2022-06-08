@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fabscr&label=Profile%20views&color=0e75b6&style=flat" alt="fabscr" /> </p>
 
-- 🌱 I’m currently learning **HTML5 & CSS3**
+- 🌱 I’m currently learning **Java, HTML5 & CSS3**
 
 - 🎓 I'm currently studying a bachelor's degree in computer software engineering at Tecnológico de Costa Rica
 
-- ✨ My next goal is learn **Java & JavaScript**
+- ✨ My next goal is learn **JavaScript** focused on web development
 
 - 🔎 You can find more about me here **https://www.linkedin.com/in/fabian-fdez/**
 

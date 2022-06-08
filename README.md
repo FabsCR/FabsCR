@@ -7,7 +7,7 @@
 
 - 🎓 I'm currently studying a bachelor's degree in computer software engineering at Tecnológico de Costa Rica
 
-- ✨ My next goal is to learn **Java & JavaScript**
+- ✨ My next goal is learn **Java & JavaScript**
 
 - 🔎 You can find more about me here **https://www.linkedin.com/in/fabian-fdez/**
 

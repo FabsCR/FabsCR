@@ -8,7 +8,7 @@
 
 - 🎓 I'm currently studying a bachelor's degree in computer software engineering at Tecnológico de Costa Rica
 
-- ✨ My next goal is learn **JavaScript** focused on web development
+- ✨ My next goal is learn **JavaScript, Android Studio & SQL**
 
 -  👀 I want to know more about **Linux** 
 

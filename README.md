@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fabscr&label=Profile%20views&color=0e75b6&style=flat" alt="fabscr" /> </p>
 
 
-- 🌱 I’m currently learning **Java, HTML5 & CSS3**
+- 🌱 I’m currently learning **Java, HTML5 & CSS3 **
 
 - 🎓 I'm currently studying a bachelor's degree in computer software engineering at Tecnológico de Costa Rica
 

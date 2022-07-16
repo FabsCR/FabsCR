@@ -8,7 +8,7 @@
 
 - 🎓 I'm currently studying a bachelor's degree in computer software engineering at Tecnológico de Costa Rica
 
-- 📚 Currently, I'm in my second semester
+- 📚 Right now, I'm in my second semester
 
 - ✨ My next goal is learn **HTML & CSS, Android Studio & Go**
 

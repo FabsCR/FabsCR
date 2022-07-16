@@ -8,6 +8,8 @@
 
 - 🎓 I'm currently studying a bachelor's degree in computer software engineering at Tecnológico de Costa Rica
 
+- 📚 Currently, I'm in my second semester
+
 - ✨ My next goal is learn **C++, Android Studio & SQL**
 
 -  👀 I want to know more about **Linux** 

@@ -14,6 +14,8 @@
 
 -  👀 I want to know more about **Linux** 
 
+- 🕵️ In addition to university, I am taking courses and certifications in networks and cybersecurity
+
 - 🔎 You can find more about me here **https://www.linkedin.com/in/fabian-fdez/**
 
 - 📫 How to reach me **fabian.jose.fdez.fdez@gmail.com**

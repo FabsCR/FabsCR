@@ -10,7 +10,7 @@
 
 - 📚 Right now, I'm in my second semester
 
-- ✨ My next goal is learn **HTML & CSS, Android Studio & Go**
+- ✨ My next goal is learn **JavaScript & Go**
 
 -  👀 I want to know more about **Linux** 
 

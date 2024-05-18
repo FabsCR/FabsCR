@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hello, I'm Fabs</h1>
+  <h1>Hello, I'm Fabs👋🏼</h1>
 </div>
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=fabscr&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
@@ -8,7 +8,7 @@
   <img src="https://i.imgur.com/312JUKb.jpeg" alt="Profile Picture">
 </div>
 
-## About me
+# About me
 - 🇨🇷 I'm a 20-year-old from Costa Rica
 - 👨🏻‍💻 Currently in my fifth semester studying a Bachelor's Degree in Computer Science
 - 📶 In addition, starting a Bachelor's Degree in Business Management

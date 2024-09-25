@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=fabscr&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
 </p>
 <div align="center">
-  <img src="https://i.imgur.com/312JUKb.jpeg" alt="Profile Picture">
+  <img src="https://i.imgur.com/GcFscFk.jpeg" alt="Profile Picture"> 
 </div>
 
 <div align="center">

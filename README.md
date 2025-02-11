@@ -9,12 +9,6 @@
   <img src="https://i.imgur.com/J2YqJ3q.jpeg" alt="Profile Picture"> 
 </div>
 
-<div align="center">
-	
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=holacr07&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
-</div>
-
 # About me
 - 🇨🇷 I'm a 21-year-old from Costa Rica
 - 👨🏻‍💻 Currently in my seventh semester studying a Bachelor's Degree in Computer Science

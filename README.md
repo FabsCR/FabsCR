@@ -18,6 +18,8 @@
 - 🔎 You can find more about me on [LinkedIn](https://www.linkedin.com/in/fabian-fdez/)
 - 📫 How to reach me: [fabian.jose.fdez.fdez@gmail.com](mailto:fabian.jose.fdez.fdez@gmail.com)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G31HPC14)
+
 <div align="center">
   <h1>Technologies I've Worked With</h1>
 </div>

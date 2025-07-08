@@ -9,6 +9,17 @@
   <img src="https://i.imgur.com/J2YqJ3q.jpeg" alt="Profile Picture"> 
 </div>
 
+<br>
+
+<div align="center">
+  <a href="https://ko-fi.com/G2G31HPC14" target="_blank">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi" />
+  </a>
+</div>
+
+<br>
+
+
 # About me
 - 🇨🇷 I'm a 21-year-old from Costa Rica
 - 👨🏻‍💻 Currently in my seventh semester studying a Bachelor's Degree in Computer Science
@@ -18,7 +29,6 @@
 - 🔎 You can find more about me on [LinkedIn](https://www.linkedin.com/in/fabian-fdez/)
 - 📫 How to reach me: [fabian.jose.fdez.fdez@gmail.com](mailto:fabian.jose.fdez.fdez@gmail.com)
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G31HPC14)
 
 <div align="center">
   <h1>Technologies I've Worked With</h1>

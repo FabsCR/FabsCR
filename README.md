@@ -25,7 +25,7 @@
 - 👨🏻‍💻 Currently in my seventh semester studying a Bachelor's Degree in Computer Science
 - 📶 In addition, starting a Bachelor's Degree in Business Management
 - 🎶 Passionate about music, a true melomaniac who appreciates high-fidelity sound quality as an audiophile
-- 🌐 Check my [Personal Software Portfolio](https://www.fabs.live/)
+- 🌐 Check my [Personal Software Portfolio](https://fabs-portfolio.vercel.app/)
 - 🔎 You can find more about me on [LinkedIn](https://www.linkedin.com/in/fabian-fdez/)
 - 📫 How to reach me: [fabian.jose.fdez.fdez@gmail.com](mailto:fabian.jose.fdez.fdez@gmail.com)
 

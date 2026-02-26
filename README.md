@@ -21,8 +21,8 @@
 
 
 # About me
-- 🇨🇷 I'm a 21-year-old from Costa Rica
-- 👨🏻‍💻 Currently in my seventh semester studying a Bachelor's Degree in Computer Science
+- 🇨🇷 I'm a 22-year-old from Costa Rica
+- 👨🏻‍💻 Currently in my last year studying a Bachelor's Degree in Computer Science
 - 📶 In addition, starting a Bachelor's Degree in Business Management
 - 🎶 Passionate about music, a true melomaniac who appreciates high-fidelity sound quality as an audiophile
 - 🌐 Check my [Personal Software Portfolio](https://fabs-portfolio.vercel.app/)

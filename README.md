@@ -28,12 +28,12 @@
 
 ## 👨🏻‍💻 About Me
 
-I am a **Computer Engineering student at Tecnológico de Costa Rica**, driven by a passion for problem-solving, self-learning, and continuous growth. I specialize in full-stack development, backend infrastructure, and designing secure, scalable data-driven systems.
+I'm a **Computer Engineering student at TEC**, specializing in full-stack development, backend infrastructure, and scalable data-driven systems.
 
-- 🚀 **Mission:** Seeking a Technology Internship to contribute to Application Integration, Data & Analytics, and Infrastructure within a dynamic, forward-thinking environment.
-- 💻 **Current Work:** Developing full-stack digital transformation projects, utilizing modern technologies to build scalable administrative dashboards and e-commerce solutions.
-- 🎓 **Leadership:** Mentoring first-year Computer Science students at TEC in system design and structured problem-solving.
-- 🧩 **Beyond the Screen:** When I'm not coding, my world revolves around art and technology. I have a deep passion for cinema and music; as a true melomaniac and audiophile, I enjoy exploring all musical genres in high-fidelity sound. I also love traveling—especially embarking on solo trips to attend concerts and discover new places. At home, you'll find me exploring ethical hacking, tweaking the cooling system on my custom-built PC, or experimenting with 3D printing.
+- 🚀 **Mission:** Seeking a Tech Internship in Application Integration, Data & Analytics, or Infrastructure.
+- 💻 **Current Work:** Building scalable dashboards and e-commerce solutions for digital transformation projects.
+- 🎓 **Leadership:** CS Mentor at TEC, guiding first-year students in system design.
+- 🧩 **Beyond the Screen:** Audiophile & cinephile. I love traveling solo for concerts, exploring ethical hacking, tweaking my custom PC, and 3D printing.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
 
